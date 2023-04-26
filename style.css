@@ -55,8 +55,9 @@ p {
     width: 1500px;
     margin-bottom: 25px;
     background-image: url("./images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
+
 }
 
 .float-left {
