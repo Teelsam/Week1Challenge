@@ -49,11 +49,13 @@ body {
 }
 
 a {
+    /*Sets the text color for anchored texts*/
     color: #ffffff;
     text-decoration: none;
 }
 
 p {
+    /*Sets the font size for all paragraphs*/
     font-size: 16px;
 }
 
@@ -69,22 +71,26 @@ p {
 }
 
 .float-left {
+    /*Sets the location for the images in the bottom content blocks that are leftmost of the page.*/
     float: left;
     margin-right: 25px;
 }
 
 .float-right {
+    /*Sets the location for the images in the bottom content blocks that are rightmost of the page.*/
     float: right;
     margin-left: 25px;
 }
 
 .content {
+    /*Sets the sizing for the blue blocks for the bottom content.*/
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 .benefits {
+    /*Sets the sizing and text for the bottom right side block content*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -97,16 +103,19 @@ p {
 }
 
 .benefit-lead {
+    /*Formats the top content of the right side block.*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-brand {
+    /*Formats the top content of the right side block.*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-cost {
+    /*Formats the top content of the right side block.*/
     margin-bottom: 32px;
     color: #ffffff;
 }
