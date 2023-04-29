@@ -58,7 +58,7 @@ p {
 }
 
 .hero img {
-    /* Sets the size and positions for the main site image */
+    /* Sets the size and positions for the main site image. */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
