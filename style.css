@@ -57,13 +57,13 @@ p {
     font-size: 16px;
 }
 
-.hero section {
+.hero img {
     /* Sets the size and positions for the main site image */
-    height: 100px;
-    width: 1500px;
+    height: 800px;
+    width: 100%;
     margin-bottom: 25px;
-    background-image: url("./images/digital-marketing-meeting.jpg");
-    background-size: center;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
     background-position: center;
 
 }
