@@ -10,6 +10,7 @@ body {
 }
 
 .header {
+    /*Formats the items under the header class*/
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -17,15 +18,18 @@ body {
 }
 
 .header h1 {
+    /*formats the largest of headings font size and display setting*/
     display: inline-block;
     font-size: 48px;
 }
 
 .header h1 .seo {
+    /*sets a text color for headings in seo class*/
     color: #d9dcd6;
 }
 
 .header div {
+    /*formats font and placements for site header */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -53,14 +57,14 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.hero section {
     /* Sets the size and positions for the main site image */
     height: 100px;
     width: 1500px;
     margin-bottom: 25px;
-    background-image: url("./images/digital-marketing-meeting.jpg");
+    /*background-image: url("./images/digital-marketing-meeting.jpg");
     background-size: center;
-    background-position: center;
+    background-position: center;*/
 
 }
 
