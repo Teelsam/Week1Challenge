@@ -16,6 +16,6 @@ An html file named index, a css file called style.css and a folder of images use
 
 ## Correct Viewport
 
-Although we havent learned about setting websites viewport, when I was working towards having no errors in my code DevTools gave me a warning about not having this piece of code in my head of my index file. So reading their linked page on viewport importance I put the line in. Their documentation can be read here:
+Although we havent learned about setting websites viewport, when I was working towards having no errors in my code DevTools gave me a warning about not having this piece of code in the head of my index file. So reading their linked page on viewport importance I put the line in. Their documentation can be read here:
 This is the WebHint foundations documentation on what viewports are and how they can be functionally added to a persons code [WebHint.io](https://webhint.io/docs/user-guide/hints/hint-meta-viewport/?source=devtools)
 Line 6 in my index.html file i added the code `<meta name="viewport" content="width=device-width, initial-scale=1" />` which I got from webhints site.
