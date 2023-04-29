@@ -9,4 +9,4 @@ Given a _on-the-job-ticket_ to help a marketing agency update its website to fol
 
 An html file named index, a css file called style.css and a folder of images used to design and beautify the websites content. Along with this README file.
 
-## Installation
+## 
